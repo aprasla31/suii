@@ -29,11 +29,3 @@ def main():
     print(result)
 main()
 
-"""
-OUTPUT:
-The A* path with the total is: 
-Arad , Sibiu , Rimnicu , Pitesti , Bucharest : : 418
-"""
-
-        
-        
